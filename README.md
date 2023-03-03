@@ -1,9 +1,9 @@
-### Olá! sou o Arthur Ribeiro✋
+### Olá! eu me chamo Arthur Ribeiro✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurribeirogray/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/th4ts_arth/)
 
 
-### Tecnologias que estou me aperfeiçoando:
+### 👨‍💻 Tecnologias que estou me aperfeiçoando:
 
 <div style="display: inline_block"><br/>
 
