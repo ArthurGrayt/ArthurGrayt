@@ -1,6 +1,6 @@
 ### Olá! eu me chamo Arthur Ribeiro✋
 
-Sou estudante de Sistemas de Informação no Campus Ouro Branco do IFMG e estou em busca de oportunidades de estágio como desenvolvedor.
+Sou estudante de Sistemas de Informação no Campus Ouro Branco do IFMG.
 
 
 ### 👨‍💻 Tecnologias que estou me aperfeiçoando:
