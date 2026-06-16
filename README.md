@@ -8,9 +8,10 @@ Sou estudante de Sistemas de Informação no Campus Ouro Branco do IFMG e estou 
 <div style="display: inline_block"><br/>
 
 
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
 <img align="center" alt="mysql" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 <img align="center" alt="mysql" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
+<img align="center" alt="mysql" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
 </div><br>
 
 ### Redes Sociais:
