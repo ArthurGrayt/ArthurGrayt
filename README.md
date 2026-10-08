@@ -22,7 +22,7 @@
 - 🔭 Atualmente desenvolvendo projetos como **Freelancer** e aberto a **novas oportunidades!**
 - 🎓 Estudante de **Sistemas de Informação** no **IFMG - Campus Ouro Branco**
 - 🌱 Focado em aprimorar minhas habilidades em **React, TypeScript e Design Systems**
-- 👯 Aberto a colaborações em projetos open-source e ideias inovadoras
+
 
 ---
 
